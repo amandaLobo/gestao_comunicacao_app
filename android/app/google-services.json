@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151634208541",
+    "firebase_url": "https://itss-job.firebaseio.com",
+    "project_id": "itss-job",
+    "storage_bucket": "itss-job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151634208541:android:aaa811009977241c1c23f4",
+        "android_client_info": {
+          "package_name": "gestaocomunicacao.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151634208541-2f4n999j9lp6qkrcqqojopl8qi1m9d51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0500jgFdJWHHasU_I52-8ZyOlrbjSQ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151634208541-2f4n999j9lp6qkrcqqojopl8qi1m9d51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
